@@ -32,7 +32,11 @@
     --input: 214.3 31.8% 91.4%;
     --ring: 222.2 84% 4.9%;
 
-    --radius: 0.5rem;
+    --mint: 145 50% 78%;
+    --mint-soft: 145 55% 92%;
+    --mint-foreground: 150 40% 22%;
+
+    --radius: 0.75rem;
 
     --sidebar-background: 0 0% 98%;
 

@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "Get comments",
+      "method": "GET",
+      "path": "/?action=comments&post_id=0",
+      "expectedStatus": 200
+    }
+  ]
+}

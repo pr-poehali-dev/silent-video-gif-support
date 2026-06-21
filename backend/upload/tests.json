@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "Upload without auth forbidden",
+      "method": "POST",
+      "path": "/",
+      "body": {"data": "", "filename": "x.png"},
+      "expectedStatus": 403
+    }
+  ]
+}

@@ -23,6 +23,11 @@ export default {
 				display: ['Cormorant', 'Golos Text', 'serif'],
 			},
 			colors: {
+				mint: {
+					DEFAULT: 'hsl(var(--mint))',
+					soft: 'hsl(var(--mint-soft))',
+					foreground: 'hsl(var(--mint-foreground))'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
